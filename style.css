@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-link{
+    color: black;
+}
+.text-color{
+    color: black;
+}
+.logo-image{
+    width: 15px;
+}
+.postionRelative{
+    position: relative;
+}
+.homeMobile1{
+position:absolute;
+top: 5%;
+left: 32%;
+width: 71%;
+}
+.homeMobile2{
+position: absolute;
+top: 10%;
+left: 30%;
+width: 71%;
+}
+.homeMobile3{
+position: absolute;
+top: 4%;
+width: 71%;
+left: 14%;
+}
+.backgroundStyle{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+.btn1{
+    border: 1px solid black;
+    padding:7px 26px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.pt{
+    padding-top: 20px;
+}
+.videoStyle{
+
+    object-fit: contain;
+    margin-left: 30px;
+}
+.tagImage{
+    object-fit: contain;
+    width: 85%;
+}
+.width-100{
+    width: 70%;
+    display: block;
+    
+}
+.readmore{
+    display: flex;
+}
+.colorRed{
+    color: red;
+}
+.featureImage{
+    object-fit: contain;
+    width: 100%;
+    height: 79%;
+
+}
+.fullyCustomise{
+    position: relative;
+}
+.fullyCustomise .textalign{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.textCenter{
+    text-align: center;
+    margin-bottom: 30px;  
+}
+.testiImage{
+    width: 40px;
+    height: 40px;
+    top: 3534.71px;
+    left: 823px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 50%;
+    background-color: rgb(247, 201, 139);   
+}
+.d-flex{
+    width: 192px;
+height: 40px;
+top: 3534.71px;
+left: 823px;
+gap: 0px;
+opacity: 0px;
+
+}
+.testiImage1{
+    object-fit: contain;
+    width: 33.25px;
+    height: 27.75px;
+    margin-top: 4px;
+    opacity: 0.5;
+}
+.textNick{
+font-family: Clash Display;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+color: #000000;
+margin-top: 20px;
+}
+h2{
+    font-family: Clash Display;
+    font-size: 38px;
+    font-weight: 700;
+    color: #000000;     
+}
+.colorAccountion{
+border-radius: 8px;
+background: #FF5555;
+color: white;
+}
+.dowloadApp{
+    color: black;
+    background-color: white;
+    padding: 6px;
+    border: none;
+}
+.text-white h2{
+color: white;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+ul li{
+    line-height: 35px;
+}
+.subscribeButton{
+    color: white;
+    background-color:black;
+    padding:  8px 18px;
+    border: none;
+    margin-left: 90px;
+    border-radius: 6px;
+}
+.blurColor{
+    color: #5d5c5c;
+}
+.starImage{
+    width: 38px;
+    position: absolute;
+    left: 55%;
+}
+.linHeight-1{
+line-height: 1;
+}
+.starImage1{
+    position: absolute;
+    bottom: 9%;
+    left: 52%;
+}
